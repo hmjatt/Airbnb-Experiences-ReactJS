@@ -1,4 +1,4 @@
-# Airbnb-Experiences-ReactJS
+# Airbnb-Experiences-ReactJS 🌌
 Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 
 
@@ -9,7 +9,7 @@ Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 
 ### About ℹ️
 
-<!-- This project is created to practice `ReactJS`. Showcasing my **`Digital Business Card`** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing `React Components`, `Styling With Classes`, using `Figma Design Templates`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity: -->
+ A clone of **`Airbnb Experiences`** page, created to practice `ReactJS`. It comprises of  some static images and a list of `Experiences` created dynamically from data in an `array`. While creating this project I learned about `React Props`, `Creatin Components from an Array`, using `Figma Design Templates`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
 
 ### Technologies Used 💻
 
