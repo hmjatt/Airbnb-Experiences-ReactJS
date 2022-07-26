@@ -42,40 +42,45 @@ npm start
 ```
 
 ## Steps I followed to complete this project 🪜
-<!-- 
+
 1. ### Initialize Project 🎍
 
-    - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
+    <!-- - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
     - [x] Import **`Oxygen`** font from google fonts.
-    - [x] Add reapating svg as a background.
+    - [x] Add reapating svg as a background. -->
 
 2. ### Organize components 🗄️
 
-    - [x] Create a `components` folder inside `src` directory.
+    <!-- - [x] Create a `components` folder inside `src` directory.
     - [x] Create **custom components** inside `components` folder.
-    - [x] Create an `images` folder inside `src` directory and move images/logos inside it.
+    - [x] Create an `images` folder inside `src` directory and move images/logos inside it. -->
 
-3. ### Header Custom Component 🧩
+3. ### Clean directory🧹
 
-    - [x] Create **`Header`** component and basic JSX elements for it.
-    - [x] Add **Email** and **LinkedIn** Logos.
+    <!-- - [x] Delete **unnecessary** files from directory and format code with `Prettier`. -->
 
-4. ### MainContent Custom Component 🧩
+4. ### Navbar Component 🧩
 
-    - [x] Create **`MainContent`** component and basic JSX elements for it.
+    <!-- - [x] Create **`Header`** component and basic JSX elements for it.
+    - [x] Add **Email** and **LinkedIn** Logos. -->
 
-5. ### Footer Custom Component 🧩
+5. ### Hero Component 🧩
 
-    - [x] Create **`Footer`** component and basic JSX elements for it.
-    - [x] Add **Email** and **LinkedIn** Logos.
+    <!-- - [x] Create **`MainContent`** component and basic JSX elements for it. -->
 
-6. ### Import Components 🪢
+6. ### Card Component 🧩
 
-    - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
+    <!-- - [x] Create **`Footer`** component and basic JSX elements for it.
+    - [x] Add **Email** and **LinkedIn** Logos. -->
 
-7. ### Styling Components 🎨
+7. ### Footer Component 🧩
 
-    - **`App`**
+    <!-- - [x] Create **`Footer`** component and basic JSX elements for it.
+    - [x] Add **Email** and **LinkedIn** Logos. -->
+
+8. ### Styling Components 🎨
+
+    <!-- - **`App`**
 
         - [x] Added style to `body` element and `App` component.
 
@@ -91,15 +96,34 @@ npm start
 
     - **`Footer`**
         - [x] Add appropriate `className`s to elements in `Footer` component.
-        - [x] Style `Footer` component.
+        - [x] Style `Footer` component. -->
 
-8. ### Clean directory🧹
 
-    - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
+9. ### Import Components 🪢
 
-9. ### Deploy 📤
+    <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
-    - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages** -->
+10. ### Props 🪢
+
+    <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
+
+11. ### Map Experiences Data Into Components 🪢
+
+    <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
+
+12. ### Key Prop 🪢
+
+13. ### Sold Out Badge 🪢
+
+14. ### Pass object as props 🪢
+
+15. ### Spread object as props 🪢
+ 
+16. ### Prepare for Deployment 🪢
+
+17. ### Deploy 📤
+
+    <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages** -->
 
 ## Links to content that helped me with this project 🔗
 
