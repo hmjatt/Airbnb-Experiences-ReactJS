@@ -103,7 +103,7 @@ npm start
 
 ## Links to content that helped me with this project 🔗
 
-<!-- 1. The Odin Project
+1. The Odin Project
 
     - [React Introduction](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
     - [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
@@ -128,7 +128,7 @@ npm start
     - [ReactJS Basics Video Series From Academind](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
     - [ReactJS Tutorial Video Series From Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2)
     - [React & Webpack 4 From Scratch - No CLI from Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4)
-    - [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU) -->
+    - [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU)
 
 #### Quote ✒️
 
