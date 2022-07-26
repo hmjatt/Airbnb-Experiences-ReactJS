@@ -9,7 +9,7 @@ Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 
 ### About ℹ️
 
- A clone of **`Airbnb Experiences`** page, created to practice `ReactJS`. It comprises of  some static images and a list of `Experiences` created dynamically from data in an `array`. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
+ A clone of **`Airbnb Experiences`** page, created to practice `ReactJS`. It comprises of  some static images and a list of `Experiences` created dynamically from data in an `array`. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :ocean:
 
 ### Technologies Used 💻
 
@@ -135,4 +135,4 @@ npm start
     “A ship in port is safe, but that’s not what ships are built for.”
     — Grace Hopper
 
-> :bowtie: :stars: :national_park:
+> :anchor: :desktop_computer: :motorway:
