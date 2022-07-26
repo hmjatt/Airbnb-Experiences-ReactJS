@@ -9,7 +9,7 @@ Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 
 ### About ℹ️
 
- A clone of **`Airbnb Experiences`** page, created to practice `ReactJS`. It comprises of  some static images and a list of `Experiences` created dynamically from data in an `array`. While creating this project I learned about `React Props`, `Creatin Components from an Array`, using `Figma Design Templates`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
+ A clone of **`Airbnb Experiences`** page, created to practice `ReactJS`. It comprises of  some static images and a list of `Experiences` created dynamically from data in an `array`. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
 
 ### Technologies Used 💻
 
@@ -131,8 +131,8 @@ npm start
     - [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU) -->
 
 #### Quote ✒️
-<!-- 
-    "Success is not final; failure is not fatal: It is the courage to continue that counts."
-    — Winston S. Churchill
 
-> :bowtie: :stars: :national_park: -->
+    “A ship in port is safe, but that’s not what ships are built for.”
+    — Grace Hopper
+
+> :bowtie: :stars: :national_park:
