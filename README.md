@@ -62,7 +62,7 @@ npm start
 
     - [x] Create **`Header`** component and basic JSX elements for it.
 	- [x] Add appropriate `className`s to elements in `Header` component.
-	- [ ] Add `airbnb.png` image to `Navbar` component.
+	- [x] Add `airbnb.png` image to `Navbar` component.
 	- [ ] Import **Header** component inside `App` component.
     - [ ] Style `Header` component.
 
