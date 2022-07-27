@@ -90,7 +90,7 @@ npm start
 
 8. ### Make App Responsive 🎨
 
-	-[x] App is responsive upto this point. :smiley:
+	- [x] App is responsive upto this point. :smiley:
 
 9. ### Props 🪢
 
