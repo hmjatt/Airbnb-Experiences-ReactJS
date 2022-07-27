@@ -56,7 +56,7 @@ npm start
 
 3. ### Clean directory🧹
 
-    <!-- - [x] Delete **unnecessary** files from directory and format code with `Prettier`. -->
+    - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 
 4. ### Navbar Component 🧩
 
