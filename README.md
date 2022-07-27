@@ -50,9 +50,9 @@ npm start
 
 2. ### Organize components 🗄️
 
-    <!-- - [x] Create a `components` folder inside `src` directory.
+    - [x] Create a `components` folder inside `src` directory.
     - [x] Create **custom components** inside `components` folder.
-    - [x] Create an `images` folder inside `src` directory and move images/logos inside it. -->
+    - [x] Create an `images` folder inside `src` directory and move images/logos inside it.
 
 3. ### Clean directory🧹
 
