@@ -70,7 +70,7 @@ npm start
 
     - [x] Create **`Hero`** component and basic JSX elements for it.
 	- [x] Add appropriate `className`s to elements in `Hero` component.
-	- [ ] Add `airbnb.svg` image to `Hero` component.
+	- [x] Add `photo-grid.png` image to `Hero` component.
 	- [ ] Import **Hero** component inside `App` component.
     - [ ] Style `Hero` component.
 
