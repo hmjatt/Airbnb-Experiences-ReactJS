@@ -86,7 +86,7 @@ npm start
 
     - [x] Create **`Footer`** component and basic JSX elements for it.
 	- [x] Import **Footer** component inside `App` component.
-    - [ ] Style `Card` component.
+    - [x] Style `Card` component.
 
 8. ### Make App Responsive 🎨
 

@@ -14,7 +14,6 @@ nav {
 }
 /* Navbar Component */
 
-
 /* Hero Component */
 section {
     padding: 20px;
@@ -71,3 +70,26 @@ section {
     color: #918E9B;
 }
 /* Card Component */
+
+/* Footer Component */
+footer {
+	text-align: center;
+	font-size: 1em;
+	color: #DEEBF8;
+	background-color: #38363e;
+}
+
+footer p {
+	padding: 0.7em 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #DEEBF8;
+}
+
+a:hover {
+	filter: opacity(40%);
+}
+/* Footer Component */
