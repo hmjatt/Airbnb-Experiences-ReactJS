@@ -90,9 +90,7 @@ npm start
 
 8. ### Make App Responsive 🎨
 
-    <!-- - **`App`**
-
-        - [x] Added style to `body` element and `App` component. -->
+	-[x] App is responsive upto this point. :smiley:
 
 9. ### Props 🪢
 
