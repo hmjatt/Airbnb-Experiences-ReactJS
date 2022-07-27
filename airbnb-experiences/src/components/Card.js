@@ -5,7 +5,7 @@ function Card() {
     return (
 		<div className="card">
 		<img src={katieZaferes} className="card-image" alt="katie-zaferes" />
-		<div className="card--stats">
+		<div className="card-stats">
 			<img src={starPic} className="card-star" alt="star-icon" />
 			<span>5.0</span>
 			<span className="grey-text">(6) • </span>
