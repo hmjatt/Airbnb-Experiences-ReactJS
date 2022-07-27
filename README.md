@@ -62,9 +62,9 @@ npm start
 
     - [x] Create **`Navbar`** component and basic JSX elements for it.
 	- [x] Add appropriate `className`s to elements in `Navbar` component.
-	- [x] Add `airbnb.png` image to `Navbar` component.
+	- [x] Add `airbnb.svg` image to `Navbar` component.
 	- [x] Import **Navbar** component inside `App` component.
-    - [ ] Style `Navbar` component.
+    - [x] Style `Navbar` component.
 
 5. ### Hero Component 🧩
 
