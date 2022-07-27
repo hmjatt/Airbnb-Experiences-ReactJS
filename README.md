@@ -60,8 +60,10 @@ npm start
 
 4. ### Navbar Component 🧩
 
-    <!-- - [x] Create **`Header`** component and basic JSX elements for it.
-    - [x] Add **Email** and **LinkedIn** Logos. -->
+    - [ ] Create **`Header`** component and basic JSX elements for it.
+	- [ ] Add appropriate `className`s to elements in `Header` component.
+	- [ ] Import **Header** component inside `App` component.
+    - [ ] Style `Header` component.
 
 5. ### Hero Component 🧩
 
@@ -77,50 +79,31 @@ npm start
     <!-- - [x] Create **`Footer`** component and basic JSX elements for it.
     - [x] Add **Email** and **LinkedIn** Logos. -->
 
-8. ### Styling Components 🎨
+8. ### Styling App 🎨
 
     <!-- - **`App`**
 
-        - [x] Added style to `body` element and `App` component.
+        - [x] Added style to `body` element and `App` component. -->
 
-    - **`Header`**
-
-        - [x] Add appropriate `className`s to elements in `Header` component.
-        - [x] Style `Header` component.
-
-    - **`MainContent`**
-
-        - [x] Add appropriate `className`s to elements in `MainContent` component.
-        - [x] Style `MainContent` component.
-
-    - **`Footer`**
-        - [x] Add appropriate `className`s to elements in `Footer` component.
-        - [x] Style `Footer` component. -->
-
-
-9. ### Import Components 🪢
+9. ### Props 🪢
 
     <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
-10. ### Props 🪢
+10. ### Map Experiences Data Into Components 🪢
 
     <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
-11. ### Map Experiences Data Into Components 🪢
+11. ### Key Prop 🪢
 
-    <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
+12. ### Sold Out Badge 🪢
 
-12. ### Key Prop 🪢
+13. ### Pass object as props 🪢
 
-13. ### Sold Out Badge 🪢
-
-14. ### Pass object as props 🪢
-
-15. ### Spread object as props 🪢
+14. ### Spread object as props 🪢
  
-16. ### Prepare for Deployment 🪢
+15. ### Prepare for Deployment 🪢
 
-17. ### Deploy 📤
+16. ### Deploy 📤
 
     <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages** -->
 
