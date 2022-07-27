@@ -78,7 +78,7 @@ npm start
 
 	- [x] Create **`Card`** component and basic JSX elements for it.
 	- [x] Add appropriate `className`s to elements in `Card` component.
-	- [ ] Add `photo-grid.png` image to `Card` component.
+	- [x] Add `photo-grid.png` image to `Card` component.
 	- [ ] Import **Card** component inside `App` component.
     - [ ] Style `Card` component.
 

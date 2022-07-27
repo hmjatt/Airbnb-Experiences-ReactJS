@@ -1,9 +1,12 @@
+import katieZaferes from "../images/zaferes.png";
+import starPic from "../images/star.png";
+
 function Card() {
     return (
 		<div className="card">
-		{/* <img src="../images/katie-zaferes.png" className="card-image" /> */}
+		<img src={katieZaferes} className="card-image" alt="katie-zaferes" />
 		<div className="card--stats">
-			{/* <img src="../images/star.png" className="card-star" /> */}
+			<img src={starPic} className="card-star" alt="star-icon" />
 			<span>5.0</span>
 			<span className="grey-text">(6) • </span>
 			<span className="grey">USA</span>
