@@ -69,7 +69,7 @@ npm start
 5. ### Hero Component 🧩
 
     - [x] Create **`Hero`** component and basic JSX elements for it.
-	- [ ] Add appropriate `className`s to elements in `Hero` component.
+	- [x] Add appropriate `className`s to elements in `Hero` component.
 	- [ ] Add `airbnb.svg` image to `Hero` component.
 	- [ ] Import **Hero** component inside `App` component.
     - [ ] Style `Hero` component.
