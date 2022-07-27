@@ -80,7 +80,7 @@ npm start
 	- [x] Add appropriate `className`s to elements in `Card` component.
 	- [x] Add `photo-grid.png` image to `Card` component.
 	- [x] Import **Card** component inside `App` component.
-    - [ ] Style `Card` component.
+    - [x] Style `Card` component.
 
 7. ### Footer Component 🧩
 

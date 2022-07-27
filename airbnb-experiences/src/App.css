@@ -40,3 +40,26 @@ section {
     margin-top: 0;
 }
 /* Hero Component */
+
+/* Card Component */
+.card {
+    /* width:  */
+	width: 47vw;
+	max-width: 175px;
+    font-size: 0.75em;
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.card-stats {
+    display: flex;
+    align-items: center;
+}
+
+.card-star {
+    height: 1.3em;
+}
+/* Card Component */
