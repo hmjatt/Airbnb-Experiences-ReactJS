@@ -3,7 +3,6 @@
 }
 
 /* Navbar Component */
-
 nav {
     display: flex;
     padding: 1.7em 2.4em;
@@ -14,3 +13,30 @@ nav {
 	height: 4vh;
 }
 /* Navbar Component */
+
+
+/* Hero Component */
+section {
+    padding: 20px;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-photo {
+    max-width: 90vw;
+    align-self: center;
+}
+
+.hero-header {
+    margin-bottom: 0.7em;
+	font-size: 2.2em;
+	line-height: 1.2em;
+}
+
+.hero-text {
+    margin-top: 0;
+}
+/* Hero Component */

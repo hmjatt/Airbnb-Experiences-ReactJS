@@ -72,7 +72,7 @@ npm start
 	- [x] Add appropriate `className`s to elements in `Hero` component.
 	- [x] Add `photo-grid.png` image to `Hero` component.
 	- [x] Import **Hero** component inside `App` component.
-    - [ ] Style `Hero` component.
+    - [x] Style `Hero` component.
 
 6. ### Card Component 🧩
 
@@ -84,7 +84,7 @@ npm start
     <!-- - [x] Create **`Footer`** component and basic JSX elements for it.
     - [x] Add **Email** and **LinkedIn** Logos. -->
 
-8. ### Styling App 🎨
+8. ### Make App Responsive 🎨
 
     <!-- - **`App`**
 
