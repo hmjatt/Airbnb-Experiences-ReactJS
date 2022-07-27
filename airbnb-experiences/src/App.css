@@ -46,7 +46,7 @@ section {
     /* width:  */
 	width: 47vw;
 	max-width: 175px;
-    font-size: 0.75em;
+    font-size: 0.79em;
 }
 
 .card-image {
@@ -61,5 +61,13 @@ section {
 
 .card-star {
     height: 1.3em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.gray {
+    color: #918E9B;
 }
 /* Card Component */
