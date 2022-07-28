@@ -27,7 +27,7 @@ Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 ## Usage 🤓
 
 ```
-cd digital-business-card
+cd airbnb-experiences
 
 ```
 
