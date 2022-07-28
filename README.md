@@ -94,7 +94,7 @@ npm start
 
 9. ### Pass Props To Card Component🪢
 
-     - [ ] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
+     - [x] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
 
 10. ### Map Experiences Data Into Components 🪢
 
