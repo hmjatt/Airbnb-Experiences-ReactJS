@@ -92,7 +92,7 @@ npm start
 
 	- [x] App is responsive upto this point. :smiley:
 
-9. ### Props 🪢
+9. ### Pass Props To Card Component🪢
 
     <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
