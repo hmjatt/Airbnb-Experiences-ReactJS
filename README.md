@@ -92,11 +92,11 @@ npm start
 
 	- [x] App is responsive upto this point. :smiley:
 
-9. ### Pass Props To Card Component🪢
+9. ### Pass Props To Card Component🎴
 
      - [x] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
 
-10. ### Map Experiences Data Into Components 🪢
+10. ### Map Experiences Data Into Components 🗺️
 
     <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
