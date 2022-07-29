@@ -5,21 +5,25 @@ import Footer from "./components/Footer";
 import data from "./data/data";
 import './App.css';
 
-
+const cards = data.map(item => {
+	return (
+		<Card 
+		img={item.coverImg}
+		rating={item.stats.rating}
+		reviewCount={item.stats.reviewCount}
+		location={item.location}
+		title={item.title}
+		price={item.price}
+		/>
+	)
+})
 
 function App() {
   return (
     <div className="App">
 		<Navbar />
 		<Hero />
-		<Card 
-			img="zaferes.png"
-			rating="5.0"
-			reviewCount={6}
-			country="USA"
-			title="Life Lessons with Katie Zaferes"
-			price={136}
-		/>
+		{cards}
 		<Footer />
     </div>
   );

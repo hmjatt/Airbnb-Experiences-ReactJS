@@ -1,10 +1,10 @@
-import katieZaferes from "../images/zaferes.png";
+// import katieZaferes from "../images/zaferes.png";
 import starPic from "../images/star.png";
 
 function Card(props) {
     return (
 		<div className="card">
-		<img src={katieZaferes} className="card-image" alt="katie-zaferes" />
+		<img src={props.img} className="card-image" alt="katie-zaferes" />
 		<div className="card-stats">
 			<img src={starPic} className="card-star" alt="star-icon" />
 			<span>{props.rating}</span>
