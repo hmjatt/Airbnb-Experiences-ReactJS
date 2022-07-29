@@ -102,7 +102,7 @@ npm start
 	- [x] Import *images* for **`Card`** component.
 	- [x] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
 
-11. ### Key Prop 🪢
+11. ### Key Prop 🗝️
 
 12. ### Sold Out Badge 🪢
 
