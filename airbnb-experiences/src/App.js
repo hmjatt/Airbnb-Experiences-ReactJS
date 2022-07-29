@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
-import data from "./data/data";
+import data from "./data";
 import './App.css';
 
 const cards = data.map(item => {

@@ -1,4 +1,3 @@
-// import katieZaferes from "../images/zaferes.png";
 import starPic from "../images/star.png";
 
 function Card(props) {
