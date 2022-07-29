@@ -98,7 +98,7 @@ npm start
 
 10. ### Map Experiences Data Into Components 🗺️
 
-    - [ ] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
+    - [x] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
 	- [ ] Import *images* for **`Card`** component.
 	- [ ] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
 
