@@ -94,11 +94,13 @@ npm start
 
 9. ### Pass Props To Card Component🎴
 
-     - [x] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
+    - [x] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
 
 10. ### Map Experiences Data Into Components 🗺️
 
-    <!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
+    - [ ] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
+	- [ ] Import *images* for **`Card`** component.
+	- [ ] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
 
 11. ### Key Prop 🪢
 
