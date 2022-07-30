@@ -79,7 +79,7 @@ npm start
 	- [x] Create **`Card`** component and basic JSX elements for it.
 	- [x] Add appropriate `className`s to elements in `Card` component.
 	- [x] Add `photo-grid.png` image to `Card` component.
-	- [x] Import **Card** component inside `App` component.
+	- [x] Import **`Card`** component inside `App` component.
     - [x] Add basic style to `Card` component.
 
 7. ### Footer Component 🧩
@@ -112,7 +112,10 @@ npm start
 	- [x] App is responsive upto this point. :smiley:
 
 
-11. ### Sold Out Badge 🪢
+11. ### Sold Out Badge 〰️
+
+	- [ ] Add a `Sold Out` badge for **`Card`** component and style it.
+	- [ ] Use *condititonal rendering* to render `Sold Out` badge only if `openSpots: 0`, inside our `data.js`.
 
 12. ### Pass object as props 🪢
 
