@@ -1,5 +1,7 @@
 .App {
   font-family: 'Poppins', sans-serif;
+  max-width: 1200px;
+  background-color: rgb(255, 255, 255);
 }
 
 /* Navbar Component */
@@ -25,7 +27,7 @@ section {
 }
 
 .hero-photo {
-    max-width: 90vw;
+    max-width: 35vw;
     align-self: center;
 }
 
@@ -49,7 +51,6 @@ section {
 }
 
 .card {
-    /* width:  */
 	width: 47vw;
 	max-width: 175px;
     font-size: 0.79em;
@@ -137,3 +138,4 @@ a:hover {
 	filter: opacity(40%);
 }
 /* Footer Component */
+
