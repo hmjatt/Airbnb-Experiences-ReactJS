@@ -114,7 +114,7 @@ npm start
 
 11. ### Sold Out Badge 〰️
 
-	- [ ] Add a `Sold Out` badge for **`Card`** component and style it.
+	- [x] Add a `Sold Out` badge element for **`Card`** component and style it.
 	- [ ] Use *condititonal rendering* to render `Sold Out` badge only if `openSpots: 0`, inside our `data.js`.
 
 12. ### Pass object as props 🪢

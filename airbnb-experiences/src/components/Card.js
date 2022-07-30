@@ -3,6 +3,7 @@ import starPic from "../images/star.png";
 function Card(props) {
     return (
 		<div className="card">
+		<div className="card-badge">SOLD OUT</div>
 		<img src={props.img} className="card-image" alt="katie-zaferes" />
 		<div className="card-stats">
 			<img src={starPic} className="card-star" alt="star-icon" />
