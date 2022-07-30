@@ -80,7 +80,7 @@ npm start
 	- [x] Add appropriate `className`s to elements in `Card` component.
 	- [x] Add `photo-grid.png` image to `Card` component.
 	- [x] Import **Card** component inside `App` component.
-    - [x] Style `Card` component.
+    - [x] Add basic style to `Card` component.
 
 7. ### Footer Component 🧩
 
@@ -88,19 +88,20 @@ npm start
 	- [x] Import **Footer** component inside `App` component.
     - [x] Style `Card` component.
 
-8. ### Make App Responsive 🎨
-
-	- [x] App is responsive upto this point. :smiley:
-
-9. ### Pass Props To Card Component🎴
+8. ### Pass Props To Card Component🎴
 
     - [x] Hardcode the *props* for **`Card`** component and pass *props* to **`Card`**.
 
-10. ### Map Experiences Data Into Components 🗺️
+9. ### Map Experiences Data Into Components 🗺️
 
     - [x] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
 	- [x] Import *images* for **`Card`** component.
 	- [x] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
+
+10. ### Make App Responsive 🎨
+
+	- [ ] Add *flexbox* style to `Card` component.
+	- [ ] App is responsive upto this point. :smiley:
 
 11. ### Key Prop 🗝️
 
