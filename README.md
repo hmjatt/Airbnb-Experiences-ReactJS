@@ -136,7 +136,7 @@ npm start
 
 15. ### Deploy 📤
 
-    <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages** -->
+    - [ ] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages**
 
 ## Links to content that helped me with this project 🔗
 
@@ -159,7 +159,7 @@ npm start
     - [Introduction To JSX](https://reactjs.org/docs/introducing-jsx.html)
     - [Rendering Elements In React](https://reactjs.org/docs/rendering-elements.html)
     - [Components and Props](https://reactjs.org/docs/components-and-props.html)
-    - [Deployment to **gh-pages**](https://create-react-app.dev/docs/deployment/)
+    - [Deployment to **gh-pages**](https://create-react-app.dev/docs/deployment/#github-pages)
 
 5. YouTube
 
