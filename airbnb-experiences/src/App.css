@@ -41,16 +41,31 @@ section {
 /* Hero Component */
 
 /* Card Component */
+.cards-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+
 .card {
     /* width:  */
 	width: 47vw;
 	max-width: 175px;
     font-size: 0.79em;
+	flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .card-image {
     width: 100%;
     border-radius: 9px;
+}
+
+.card-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .card-stats {
@@ -68,6 +83,10 @@ section {
 
 .gray {
     color: #918E9B;
+}
+
+.card-price {
+    margin-top: auto;
 }
 /* Card Component */
 
