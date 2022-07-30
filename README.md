@@ -97,23 +97,30 @@ npm start
     - [x] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
 	- [x] Import *images* for **`Card`** component.
 	- [x] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
+	- [x] When we *.map* over *array of objects* in **`App`** component,  Add *key prop 🗝️* when passing *props* to **`Card`** components. This will get rid of this warning : 
+	```
+	⚠️ react_devtools_backend.js:4026 Warning: Each child in a list should have a unique "key" prop.
+	Check the render method of `App`. See https://reactjs.org/link/warning-keys for more information.
+    at Card (http://localhost:3000/main.5c1f9e47e1f13a06e783.hot-update.js:27:18)
+    at App
+
+	```
 
 10. ### Make App Responsive 🎨
 
 	- [x] Add *flexbox* style to `Card` component.
 	- [x] App is responsive upto this point. :smiley:
 
-11. ### Key Prop 🗝️
 
-12. ### Sold Out Badge 🪢
+11. ### Sold Out Badge 🪢
 
-13. ### Pass object as props 🪢
+12. ### Pass object as props 🪢
 
-14. ### Spread object as props 🪢
+13. ### Spread object as props 🪢
  
-15. ### Prepare for Deployment 🪢
+14. ### Prepare for Deployment 🪢
 
-16. ### Deploy 📤
+15. ### Deploy 📤
 
     <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages** -->
 
