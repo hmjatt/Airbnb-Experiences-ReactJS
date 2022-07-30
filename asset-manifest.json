@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Airbnb-Experiences-ReactJS/static/css/main.10bb2432.css",
+    "main.js": "/Airbnb-Experiences-ReactJS/static/js/main.7417d2ec.js",
+    "static/js/787.bbfb3f71.chunk.js": "/Airbnb-Experiences-ReactJS/static/js/787.bbfb3f71.chunk.js",
+    "static/media/photo-grid.png": "/Airbnb-Experiences-ReactJS/static/media/photo-grid.56f4c3394d1fec3cb16b.png",
+    "static/media/katie-zaferes.png": "/Airbnb-Experiences-ReactJS/static/media/katie-zaferes.3a3434e3f5632d7c8f76.png",
+    "static/media/mountain-bike.png": "/Airbnb-Experiences-ReactJS/static/media/mountain-bike.3db319bcbdc3a17e590b.png",
+    "static/media/wedding-photography.png": "/Airbnb-Experiences-ReactJS/static/media/wedding-photography.cc36ce403c2a7db00380.png",
+    "static/media/airbnb.svg": "/Airbnb-Experiences-ReactJS/static/media/airbnb.b28cf7f017befbd331c4020b8002efbd.svg",
+    "index.html": "/Airbnb-Experiences-ReactJS/index.html",
+    "main.10bb2432.css.map": "/Airbnb-Experiences-ReactJS/static/css/main.10bb2432.css.map",
+    "main.7417d2ec.js.map": "/Airbnb-Experiences-ReactJS/static/js/main.7417d2ec.js.map",
+    "787.bbfb3f71.chunk.js.map": "/Airbnb-Experiences-ReactJS/static/js/787.bbfb3f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bb2432.css",
+    "static/js/main.7417d2ec.js"
+  ]
+}
