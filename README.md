@@ -97,7 +97,7 @@ npm start
     - [x] Create a file called `data.js`, which contains an *array of objects*. It reperesents the data that will be used inside **`Card`** component.
 	- [x] Import *images* for **`Card`** component.
 	- [x] Use *.map* to iterate over *array of objects* inside `data.js` to create **`Card`** components.
-	- [x] When we *.map* over *array of objects* in **`App`** component,  Add *key prop 🗝️* when passing *props* to **`Card`** components. This will get rid of this warning : 
+	- [x] When we *.map* over *array of objects* in **`App`** component,  Add *key prop 🗝️ (`key={item.id}`)* when passing *props* to **`Card`** components. This will get rid of this warning : 
 	```
 	⚠️ react_devtools_backend.js:4026 Warning: Each child in a list should have a unique "key" prop.
 	Check the render method of `App`. See https://reactjs.org/link/warning-keys for more information.
