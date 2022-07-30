@@ -120,7 +120,7 @@ npm start
 12. ### Pass object as props 📟
 
 	- [x] Pass entire object when we *.map* over *array of objects* in **`App`** component using *item* as *key* and *array of objects* as its *value*.
-	- [ ] Access the object that is passed as prop in **`Card`** component, where *item* is *key* and *array of objects* are its *values*.
+	- [x] Access the object that is passed as prop in **`Card`** component, where *item* is *key* and *array of objects* are its *values*.
 
 13. ### Spread object as props 🪢
  

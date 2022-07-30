@@ -11,15 +11,15 @@ function Card(props) {
     return (
 		<div className="card">
 		{badgeText && <div className="card-badge">{badgeText}</div>}
-		<img src={props.img} className="card-image" alt="katie-zaferes" />
+		<img src={props.item.coverImg} className="card-image" alt="katie-zaferes" />
 		<div className="card-stats">
 			<img src={starPic} className="card-star" alt="star-icon" />
-			<span>{props.rating}</span>
-			<span className="grey">({props.reviewCount}) • </span>
-			<span className="grey">{props.location}</span>
+			<span>{props.item.stats.rating}</span>
+			<span className="grey">({props.item.stats.reviewCount}) • </span>
+			<span className="grey">{props.item.location}</span>
 		</div>
-		<p className="card-title">{props.title}</p>
-		<p className="card-price"><span className="bold">From ${props.price}</span> / person</p>
+		<p className="card-title">{props.item.title}</p>
+		<p className="card-price"><span className="bold">From ${props.item.price}</span> / person</p>
 	</div>
     );
 }
