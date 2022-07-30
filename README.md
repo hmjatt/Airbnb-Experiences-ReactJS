@@ -117,12 +117,13 @@ npm start
 	- [x] Add a `Sold Out` badge element for **`Card`** component and style it.
 	- [x] Use *condititonal rendering* in **`Card`** component to render `SOLD OUT` badge only if `openSpots: 0` and if `location: "Online"` render `ONLINE` instead. Comapare against *keys* inside *array of objects* in `data.js`.
 
-12. ### Pass object as props 📟
+12. ### Pass object as props(Option #1) 📟
 
 	- [x] Pass entire object when we *.map* over *array of objects* in **`App`** component using *item* as *key* and *array of objects* as its *value*.
 	- [x] Access the object that is passed as prop in **`Card`** component, where *item* is *key* and *array of objects* are its *values*.
 
-13. ### Spread object as props 🪢
+13. ### Spread object as props(Option #2) 📼
+	- [x] We can make use of `{...item}` [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals), which takes properties of our *object* and create a separate prop for each *key* in *object*. *Value* of *props* can be accessed using `props.key` syntax, where *key* is an actual *key* in `data.js`. This is an alternate to instead of creating our own *prop* called *item* to which we pass our entire *object*, **`Pass object as props(Option #1)`** is used in this project.
  
 14. ### Prepare for Deployment 🪢
 
