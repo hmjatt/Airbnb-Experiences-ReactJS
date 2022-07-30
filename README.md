@@ -123,9 +123,15 @@ npm start
 	- [x] Access the object that is passed as prop in **`Card`** component, where *item* is *key* and *array of objects* are its *values*.
 
 13. ### Spread object as props(Option #2) 📼
+
 	- [x] We can make use of `{...item}` [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals), which takes properties of our *object* and create a separate prop for each *key* in *object*. *Value* of *props* can be accessed using `props.key` syntax, where *key* is an actual *key* in `data.js`. This is an alternate to instead of creating our own *prop* called *item* to which we pass our entire *object*, **`Pass object as props(Option #1)`** is used in this project.
  
 14. ### Prepare for Deployment 🪢
+
+	- [ ] Add More than 3 items inside **`Card`** component by updating `data.js`.
+	- [ ] Delete **unnecessary** files from directory and format code with `Prettier`.
+	- [ ] Test for *Responsiveness* and make changes if need be. 
+	- [ ] Add links to `Live Preview` and *screenshots*.
 
 15. ### Deploy 📤
 
