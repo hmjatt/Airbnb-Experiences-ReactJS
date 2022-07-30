@@ -2,10 +2,11 @@
 
 Creating a clone of **`Airbnb Experiences`** page using `ReactJS`
 
-<!--
+
 ## [Live Preview](https://hmjatt.github.io/Airbnb-Experiences-ReactJS/)
 
-![This is an image]() -->
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Airbnb-Experiences-clone/Desktop-preview.png)
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Airbnb-Experiences-clone/Mobile-preview.png)
 
 ### About ℹ️
 
@@ -131,7 +132,7 @@ npm start
     - [x] Add More than 3 items inside **`Card`** component by updating `data.js`.
     - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
     - [x] Test for _Responsiveness_ and make changes if need be.
-    - [ ] Add links to `Live Preview` and _screenshots_.
+    - [x] Add links to `Live Preview` and _screenshots_.
 
 15. ### Deploy 📤
 
