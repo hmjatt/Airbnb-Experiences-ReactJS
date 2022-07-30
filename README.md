@@ -162,6 +162,9 @@ npm start
 6. FreeCodeCamp
 	- [React Props Cheatsheet(Article by Reed Barger)](https://www.freecodecamp.org/news/react-props-cheatsheet/)
 
+7. MDN
+	- [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
+
 #### Quote ✒️
 
     “A ship in port is safe, but that’s not what ships are built for.”
