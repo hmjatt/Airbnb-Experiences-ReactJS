@@ -61,6 +61,7 @@ section {
 .card-image {
     width: 100%;
     border-radius: 9px;
+	margin-bottom: 9px;
 }
 
 .card-title {
@@ -81,7 +82,7 @@ section {
     font-weight: bold;
 }
 
-.gray {
+.grey {
     color: #918E9B;
 }
 
