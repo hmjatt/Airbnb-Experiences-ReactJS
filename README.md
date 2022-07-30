@@ -130,7 +130,7 @@ npm start
 
 	- [x] Add More than 3 items inside **`Card`** component by updating `data.js`.
 	- [ ] Delete **unnecessary** files from directory and format code with `Prettier`.
-	- [ ] Test for *Responsiveness* and make changes if need be. 
+	- [x] Test for *Responsiveness* and make changes if need be. 
 	- [ ] Add links to `Live Preview` and *screenshots*.
 
 15. ### Deploy 📤

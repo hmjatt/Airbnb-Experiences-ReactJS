@@ -27,7 +27,7 @@ section {
 }
 
 .hero-photo {
-    max-width: 35vw;
+    max-width: 95vw;
     align-self: center;
 }
 
@@ -75,7 +75,7 @@ section {
 }
 
 .card:nth-of-type(6) {
-	filter: contrast(175%) brightness(70%);
+	filter: contrast(135%) brightness(120%);
 }
 
 
@@ -138,4 +138,3 @@ a:hover {
 	filter: opacity(40%);
 }
 /* Footer Component */
-

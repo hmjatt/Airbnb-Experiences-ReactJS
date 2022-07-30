@@ -18,3 +18,9 @@ code {
 * {
     box-sizing: border-box;
 }
+
+@media only screen and (max-width: 1200px) {
+	body {
+	  display: block;
+	}
+}
