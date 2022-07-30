@@ -46,7 +46,7 @@ npm start
 
 1. ### Initialize Project 🎍
 
-    - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
+    - [x] Initailize the project using `npx create-react-app airbnb-experiences` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
     - [x] Import **`Poppins`** font from google fonts.
 
 2. ### Organize components 🗄️
