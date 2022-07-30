@@ -112,10 +112,10 @@ npm start
 	- [x] App is responsive upto this point. :smiley:
 
 
-11. ### Sold Out Badge 〰️
+11. ### Sold Out/Location Badge 〰️
 
 	- [x] Add a `Sold Out` badge element for **`Card`** component and style it.
-	- [ ] Use *condititonal rendering* to render `Sold Out` badge only if `openSpots: 0`, inside our `data.js`.
+	- [x] Use *condititonal rendering* in **`Card`** component to render `SOLD OUT` badge only if `openSpots: 0` and if `location: "Online"` render `ONLINE` instead. Comapare against *keys* inside *array of objects* in `data.js`.
 
 12. ### Pass object as props 🪢
 
