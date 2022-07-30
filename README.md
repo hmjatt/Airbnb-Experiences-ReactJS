@@ -101,7 +101,7 @@ npm start
 10. ### Make App Responsive 🎨
 
 	- [x] Add *flexbox* style to `Card` component.
-	- [ ] App is responsive upto this point. :smiley:
+	- [x] App is responsive upto this point. :smiley:
 
 11. ### Key Prop 🗝️
 
