@@ -119,6 +119,9 @@ npm start
 
 12. ### Pass object as props 📟
 
+	- [ ] Pass entire object when we *.map* over *array of objects* in **`App`** component using *item* as *key* and *array of objects* as its *value*.
+	- [ ] Access the object that is passed as prop in **`Card`** component, where *item* is *key* and *array of objects* are its *values*.
+
 13. ### Spread object as props 🪢
  
 14. ### Prepare for Deployment 🪢
@@ -155,6 +158,9 @@ npm start
     - [ReactJS Tutorial Video Series From Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2)
     - [React & Webpack 4 From Scratch - No CLI from Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4)
     - [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU)
+
+6. FreeCodeCamp
+	- [React Props Cheatsheet(Article by Reed Barger)](https://www.freecodecamp.org/news/react-props-cheatsheet/)
 
 #### Quote ✒️
 
