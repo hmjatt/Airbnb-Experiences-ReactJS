@@ -117,7 +117,7 @@ npm start
 	- [x] Add a `Sold Out` badge element for **`Card`** component and style it.
 	- [x] Use *condititonal rendering* in **`Card`** component to render `SOLD OUT` badge only if `openSpots: 0` and if `location: "Online"` render `ONLINE` instead. Comapare against *keys* inside *array of objects* in `data.js`.
 
-12. ### Pass object as props 🪢
+12. ### Pass object as props 📟
 
 13. ### Spread object as props 🪢
  
